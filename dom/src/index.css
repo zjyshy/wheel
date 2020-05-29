@@ -1,0 +1,12 @@
+div {
+  border: 1px solid;
+  padding: 5px;
+  user-select: none; /*文字无法选中*/
+}
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}

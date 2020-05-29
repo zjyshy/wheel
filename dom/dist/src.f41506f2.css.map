@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.f41506f2.css","sourceRoot":"..","sourcesContent":["div {\r\n  border: 1px solid;\r\n  padding: 5px;\r\n  user-select: none; /*文字无法选中*/\r\n}\r\n\r\n.red {\r\n  color: red;\r\n}\r\n.green {\r\n  color: green;\r\n}\r\n"]}
